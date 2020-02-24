@@ -11,6 +11,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
+<iframe width="295" height="90" src="http://www.vibefm.ro/embed/" frameborder="0" allowtransparency="true"></iframe>
+
 # Header 1
 ## Header 2
 ### Header 3
